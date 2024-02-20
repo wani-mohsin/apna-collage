@@ -1,3 +1,3 @@
 # apna-collage
-this is my first repository
+This is my first repository
 Author-mohsin-wani
